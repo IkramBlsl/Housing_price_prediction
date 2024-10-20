@@ -32,3 +32,4 @@ Deux modèles principaux ont été utilisés pour prédire les prix des loyers :
 
 
 La dataset utilisé se trouve ici : [https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data]
+cette dataset contient les colonnes suivantes : SquareFeet, Bedrooms, Bathrooms, YearBuilt,Price et Neighboorhoud
